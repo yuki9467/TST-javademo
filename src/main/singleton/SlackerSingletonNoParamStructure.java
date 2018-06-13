@@ -1,7 +1,7 @@
 package src.main.singleton;
 
 /**
- * 单例模式：懒汉式写法，无参构造方法
+ * 单例模式：懒汉式，第四种，无参构造方法，静态内部类
  *
  * @author :liuqi
  * @date :2018-06-13 14:15.

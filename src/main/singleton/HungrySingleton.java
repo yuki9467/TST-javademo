@@ -1,7 +1,7 @@
 package src.main.singleton;
 
 /**
- * 单例模式：饿汉式写法
+ * 单例模式：饿汉式写法，静态内部类
  *
  * @author :liuqi
  * @date :2018-06-13 15:00.
