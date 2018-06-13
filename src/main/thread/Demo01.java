@@ -1,6 +1,5 @@
-package main.thread;
-import main.thread.Rabit;
-import main.thread.Tortoise;
+package src.main.thread;
+
 /**
  * 创建线程的第一种方式：继承thread类，重写run()方法
  *

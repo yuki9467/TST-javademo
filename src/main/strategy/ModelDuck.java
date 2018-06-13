@@ -1,4 +1,4 @@
-package main.strategy;
+package src.main.strategy;
 
 /**
  * 模型鸭子：会叫不会飞

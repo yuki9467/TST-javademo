@@ -1,4 +1,4 @@
-package main.template;
+package src.main.template;
 
 /**
  * 做咖啡的方法类

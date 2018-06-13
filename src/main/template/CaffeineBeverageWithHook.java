@@ -1,4 +1,4 @@
-package main.template;
+package src.main.template;
 
 /**
  * 高层组件

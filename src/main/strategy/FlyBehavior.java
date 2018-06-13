@@ -1,4 +1,4 @@
-package main.strategy;
+package src.main.strategy;
 
 /**
  * 飞行行为接口

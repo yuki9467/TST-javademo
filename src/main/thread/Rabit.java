@@ -1,4 +1,4 @@
-package main.thread;
+package src.main.thread;
 
 /**
  * 兔子线程
